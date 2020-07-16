@@ -6,6 +6,11 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+#three i{
+	font-size: 80px;
+	margin: 30px;
+	display: inline-block;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2482,6 +2487,7 @@ input, select, textarea {
 		input[type="button"].icon,
 		.button.icon {
 			padding-left: 1.35em;
+			margin-top: 10px;
 		}
 
 			input[type="submit"].icon:before,
@@ -2504,6 +2510,7 @@ input, select, textarea {
 		input[type="button"].small,
 		.button.small {
 			font-size: 0.8em;
+			margin-top: 10px;
 		}
 
 		input[type="submit"].large,
